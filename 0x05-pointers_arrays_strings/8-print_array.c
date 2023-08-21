@@ -1,5 +1,4 @@
-‘__attribute__’
-include "main.h"
+#include "main.h"
 
 /**
  * print_array - a function that prints n elements of an array
